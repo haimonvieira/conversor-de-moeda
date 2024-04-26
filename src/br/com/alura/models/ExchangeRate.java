@@ -2,8 +2,6 @@ package br.com.alura.models;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
-import com.google.gson.stream.JsonToken;
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -12,10 +10,9 @@ import java.net.http.HttpResponse;
 
 public class ExchangeRate {
 
-    private String yourApiKey;
     public void obterConversao(String converterDe, String converterPara, double valor) {
 
-        yourApiKey = "SUA_API_AQUI";
+        String yourApiKey = "SUA_API_AQUI";
 
         String url = "https://v6.exchangerate-api.com/v6/" + yourApiKey + "/latest/" +
                 converterDe;
