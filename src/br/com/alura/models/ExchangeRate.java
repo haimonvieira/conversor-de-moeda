@@ -15,7 +15,7 @@ public class ExchangeRate {
     private String yourApiKey;
     public void obterConversao(String converterDe, String converterPara, double valor) {
 
-        yourApiKey = "6464d38a48bf98f006e69889";
+        yourApiKey = "SUA_API_AQUI";
 
         String url = "https://v6.exchangerate-api.com/v6/" + yourApiKey + "/latest/" +
                 converterDe;
