@@ -6,7 +6,7 @@ Um desafio do programa ONE para testar o conhecimentos adquiridos no curso de PO
 1. Clone este repositório para o seu ambiente local.
 2. Certifique-se de ter o Java e o Maven (Gson) instalados em sua máquina.
 3. Obtenha uma chave de API da ExchangeRate.
-4. Execute o arquivo Main.java e substitua yourApiKey pela sua chave de API.
+4. Execute o arquivo Main.java e insira sua chave de API.
 5. Se quiser pode utilizar o Postman para testar a API, sem fazer cadastro.
 
 # Links úteis
