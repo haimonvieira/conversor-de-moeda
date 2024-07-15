@@ -1,5 +1,7 @@
 # Conversor de moeda em Java com ExchangeRate-API
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5878d938-aabb-4479-b3a9-6b25fade30b8" alt="Badge-Conversor">
+</p>
 Um desafio do programa ONE para testar o conhecimentos adquiridos no curso de POO.
 
 # Como usar
